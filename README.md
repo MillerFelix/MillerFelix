@@ -1,7 +1,6 @@
 ## Olá! sou Miller Felix
 
-
-
-- 👻 BackEnd na Academia Kaspper
+- 👻 FullStack na Academia Kaspper
+- 👨‍💻 Auxiliar de Programação Kaspper 
 - ☕ Estudando JAVA
 - 📫 Me encontre em: millerredigolo@gmail.com
