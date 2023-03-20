@@ -2,5 +2,5 @@
 
 - 👻 FullStack na Academia Kaspper
 - 👨‍💻 Auxiliar de Programação Kaspper 
-- ☕ Estudando JAVA
+- ☕ Estudante Java/JavaScript/Angular
 - 📫 Me encontre em: millerredigolo@gmail.com
