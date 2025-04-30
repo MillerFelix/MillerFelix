@@ -1,6 +1,6 @@
 ## Olá! sou Miller Felix
 
-- 👻 FullStack Spring/Angular
-- 👨‍💻 Analista de Desenvolvimento Trainee Kaspper
-- ☕ Estudo constante de Java/Spring/JavaScript/TypeScript/Angular
+- 👻 FullStack Java/Spring/Angular/React
+- 👨‍💻 Analista de Desenvolvimento Kaspper
+- ☕ Estudo constante de Java/Spring/JavaScript/TypeScript/Angular/React
 - 📫 Me encontre em: millerredigolo@gmail.com
